@@ -1,4 +1,4 @@
-vme" {
+variable" {
     default = "Naveen K"
    # description = "Name of the SSH keypair to use in AWS."
 }
@@ -37,7 +37,7 @@ variable "instance_name" {
 variable "aws_ami" {
     default = "ami-be4a24d9"
 }
-ariable "key_name" {
+variable "key_name" {
     default = "Naveen K"
    # description = "Name of the SSH keypair to use in AWS."
 }
